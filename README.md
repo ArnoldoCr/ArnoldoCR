@@ -28,7 +28,7 @@ Actualmente enfocado en construir aplicaciones con integración de Inteligencia 
 **Backend**
 - Go
 - PHP (Laravel)
-- ASP.NET, C#
+- C# (.NET)
 
 **Mobile**
 - Flutter (Dart)
