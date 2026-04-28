@@ -1,132 +1,110 @@
 # 👋 Hola, soy Arnoldo Callejas
 
-Frontend Developer Jr con 3 años de experiencia desarrollando aplicaciones web con React y JavaScript, así como soluciones móviles con Flutter y servicios backend en Go.
+**Frontend Developer Jr · React · JavaScript · Go · Flutter**
 
-Actualmente enfocado en construir aplicaciones con integración de Inteligencia Artificial y mejorar la experiencia de usuario en productos reales.
+Frontend Developer con 3 años de experiencia en aplicaciones web con React y JavaScript,
+soluciones móviles con Flutter y servicios backend en Go. Enfocado en productos reales,
+código limpio y experiencia de usuario.
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 ---
 
 ## 🚀 Sobre mí
 
-- 💻 Experiencia trabajando en **aplicaciones en producción**
-- ⚛️ Desarrollo frontend con **React (hooks, estado, componentes reutilizables)**
-- 📊 Optimización y mantenimiento de **dashboards utilizados por múltiples clientes**
-- 🔗 Integración de **APIs REST en flujos transaccionales reales**
-- ⚙️ Desarrollo backend con **Go para e-commerce y pagos recurrentes**
-- 📱 Desarrollo móvil con **Flutter (apps usadas en operación diaria)**
-- 🧠 Interés en **IA aplicada al desarrollo (prompt engineering + tools)**
+- 💻 Experiencia en **aplicaciones en producción** usadas por clientes reales
+- ⚛️ Frontend con **React** — hooks, estado, componentes reutilizables, arquitectura modular
+- 📊 Optimización de **dashboards** con grandes volúmenes de datos
+- 🔗 Integración de **APIs REST** en flujos transaccionales reales
+- ⚙️ Backend con **Go** para e-commerce y pagos recurrentes
+- 📱 App móvil en **Flutter** usada en operación diaria
+- 🧠 Interés en **IA aplicada al desarrollo**
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Frontend**
-- React
-- JavaScript (ES6+)
-- HTML5, CSS3
-
-**Backend**
-- Go
-- PHP (Laravel)
-- C# (.NET)
-
-**Mobile**
-- Flutter (Dart)
-- React Native
-
-**Bases de datos**
-- SQL Server
-- MySQL
-- PostgreSQL
-
-**Herramientas**
-- Git
-- Bitbucket
-- Jira
-- Power BI
-- VS Code
+| Frontend | Backend | Mobile | DB | Herramientas |
+|---|---|---|---|---|
+| React, JS, HTML, CSS | Go, Laravel, .NET | Flutter, React Native | SQL Server, MySQL, PostgreSQL | Git, Jira, Power BI |
 
 ---
-## 🏢 Proyectos en producción (experiencia profesional)
+
+## 💼 Experiencia profesional
+
+### PEIIX — Desarrollador Fullstack *(2024 - Actualidad)*
+- Desarrollo y optimización de dashboards en React utilizados por múltiples clientes
+- Integración de APIs REST en flujos transaccionales reales
+- Servicios backend en Go para e-commerce y pagos recurrentes
+- App móvil en Flutter para terminal de pago en operación diaria
+- Trabajo colaborativo con Git/Bitbucket en equipo de 3 devs
+
+### FIDESON — Desarrollador Fullstack / Analista de Datos *(2023)*
+- Sistema web fullstack con Laravel (autenticación, endpoints, validaciones)
+- Procesamiento de datos y dashboards en Power BI
+
+---
+
+## 🏢 Proyectos en producción
 
 ### 🔹 Plataforma de dashboards (PEIIX)
-Participación en desarrollo y optimización de dashboards utilizados por múltiples clientes.
+Dashboards en React utilizados activamente por múltiples clientes.
 
-- Desarrollo en React (hooks, componentes reutilizables)
-- Implementación de tablas, filtros y validaciones
-- Mejora de arquitectura y código limpio en módulos clave
+- Componentes reutilizables, hooks y manejo de estado
+- Tablas, filtros, validaciones y exportación de datos (Excel, PDF)
 - Optimización de rendimiento en secciones críticas
+- Refactorización para mejorar mantenibilidad y escalabilidad
 
-🔗 https://master.peiix.com/
+🔗 [master.peiix.com](https://master.peiix.com)
 
 ---
 
 ### 🔹 Landing Page corporativa (PEIIX)
-Desarrollo de landing page pública enfocada en presentación del producto.
+Landing page pública enfocada en presentación del producto.
 
 - HTML, CSS y JavaScript
-- Enfoque en rendimiento y experiencia de usuario
-- Implementación responsive
+- Diseño responsive y enfoque en rendimiento
 
-🔗 https://peiix.com/
+🔗 [peiix.com](https://peiix.com)
 
 ---
 
-### 🔹 Aplicación móvil para terminal de pago
-Aplicación desarrollada en Flutter utilizada activamente por usuarios en operación diaria.
+### 🔹 App móvil para terminal de pago
+Aplicación Flutter usada activamente en operación diaria.
 
 - Integración con SDK Android
-- Validaciones de seguridad
-- UI responsiva para uso continuo
+- Validaciones de seguridad y UI responsiva
 
-*(Aplicación privada distribuida en tienda interna — sin acceso público)*
+*(Aplicación privada — sin acceso público)*
 
 ---
 
-### 🔹 Servicios backend para e-commerce
-Desarrollo de APIs en Go para flujos transaccionales.
+### 🔹 Servicios backend para e-commerce (Go)
+APIs para flujos transaccionales y pagos recurrentes.
 
-- Manejo de pagos recurrentes
-- Integración con servicios reales
-- Código en producción
+- Manejo de pagos recurrentes e integración con servicios reales
 
 *(Proyecto interno — sin acceso público)*
----
-
-## 🤖 Proyectos destacados
-
-### 🔹 AI Dev Assistant
-Aplicación web que integra IA (Gemini) para ayudar a desarrolladores a:
-
-- Debuggear código
-- Optimizar lógica
-- Explicar código
-
-**Stack:** React + Node.js + Gemini API  
-**Enfoque:** Prompt engineering + UX tipo chat
-
-👉 https://github.com/ArnoldoCr/ai-dev-assistant
 
 ---
 
-## 💼 Experiencia
+## 🤖 Proyectos personales
 
-### 🏢 PEIIX — Desarrollador de Software
-- Desarrollo de aplicaciones web en React
-- Optimización y refactorización de módulos en dashboards productivos
-- Integración de APIs REST en flujos reales
-- Backend en Go para servicios de e-commerce
-- Desarrollo de app móvil en Flutter para terminal de pago
+### AI Dev Assistant
+App web que integra Google Gemini para ayudar a desarrolladores a debuggear,
+optimizar y explicar código.
 
-### 🏢 FIDESON — Desarrollador Web / Analista de Datos
-- Desarrollo con Laravel (PHP)
-- Implementación frontend/backend
-- Dashboards con Power BI
-- Procesamiento de datos
+**Stack:** React + Node.js + Gemini API
+
+👉 [Demo en vivo](https://ai-dev-assistant-dun.vercel.app) · [GitHub](https://github.com/ArnoldoCr/ai-dev-assistant)
 
 ---
 
 ## 📫 Contacto
 
-- 📧 arnoldo.callejasr@gmail.com
-- 📍 México (remoto / híbrido)
+📧 arnoldo.callejasr@gmail.com · 📍 México · Remoto / Híbrido
