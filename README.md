@@ -1,8 +1,8 @@
 # 👋 Hola, soy Arnoldo Callejas
 
-**Frontend Developer Jr · React · JavaScript · Go · Flutter**
+**Fullstack Developer Jr · React · JavaScript · Go · Flutter**
 
-Frontend Developer con 3 años de experiencia en aplicaciones web con React y JavaScript,
+Fullstack Developer Jr con 3 años de experiencia en aplicaciones web con React y JavaScript,
 soluciones móviles con Flutter y servicios backend en Go. Enfocado en productos reales,
 código limpio y experiencia de usuario.
 
