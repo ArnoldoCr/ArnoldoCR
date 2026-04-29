@@ -45,8 +45,10 @@ código limpio y experiencia de usuario.
 - Trabajo colaborativo con Git/Bitbucket en equipo de 3 devs
 
 ### FIDESON — Desarrollador Fullstack / Analista de Datos *(2023)*
-- Sistema web fullstack con Laravel (autenticación, endpoints, validaciones)
-- Procesamiento de datos y dashboards en Power BI
+- Sistema web fullstack con Laravel (PHP) — lógica backend y vistas frontend
+- Diseño e implementación de endpoints, autenticación, sesiones y validaciones de seguridad
+- Procesamiento y transformación de datos para análisis y reporting
+- Dashboards en Power BI para visualización de métricas y toma de decisiones
 
 ---
 
