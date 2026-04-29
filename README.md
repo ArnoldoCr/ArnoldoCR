@@ -12,6 +12,8 @@ código limpio y experiencia de usuario.
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ---
 
@@ -31,7 +33,7 @@ código limpio y experiencia de usuario.
 
 | Frontend | Backend | Mobile | DB | Herramientas |
 |---|---|---|---|---|
-| React, JS, HTML, CSS | Go, Laravel, .NET | Flutter, React Native | SQL Server, MySQL, PostgreSQL | Git, Jira, Power BI |
+| React, JS, HTML, CSS, Bootstrap, Tailwind | Go, Laravel, .NET | Flutter, React Native | SQL Server, MySQL, PostgreSQL | Git, Jira, Power BI |
 
 ---
 
