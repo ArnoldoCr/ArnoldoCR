@@ -36,7 +36,10 @@ código limpio y experiencia de usuario.
 | React, JS, HTML, CSS, Bootstrap, Tailwind | Go, Laravel, .NET | Flutter, React Native | SQL Server, MySQL, PostgreSQL | Git, Jira, Power BI |
 
 ---
+## 🔥 Estadísticas 
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ArnoldoCR&theme=algolia" alt="ArnoldoCR"  /></p>
 
+---
 ## 💼 Experiencia profesional
 
 ### PEIIX — Desarrollador Fullstack *(2024 - Actualidad)*
