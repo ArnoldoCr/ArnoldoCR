@@ -12,8 +12,8 @@ código limpio y experiencia de usuario.
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ---
 
@@ -33,13 +33,16 @@ código limpio y experiencia de usuario.
 
 | Frontend | Backend | Mobile | DB | Herramientas |
 |---|---|---|---|---|
-| React, JS, HTML, CSS, Bootstrap, Tailwind | Go, Laravel, .NET | Flutter, React Native | SQL Server, MySQL, PostgreSQL | Git, Jira, Power BI |
+| React, JS, HTML, CSS, Tailwind, Bootstrap | Go, Laravel, .NET | Flutter, React Native | SQL Server, MySQL, PostgreSQL | Git, Jira, Power BI |
 
 ---
-## 🔥 Estadísticas 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ArnoldoCR&theme=algolia" alt="ArnoldoCR"  /></p>
+
+## 🔥 Estadísticas
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ArnoldoCR&theme=algolia" alt="ArnoldoCR" /></p>
 
 ---
+
 ## 💼 Experiencia profesional
 
 ### PEIIX — Desarrollador Fullstack *(2024 - Actualidad)*
@@ -102,11 +105,30 @@ APIs para flujos transaccionales y pagos recurrentes.
 
 ## 🤖 Proyectos personales
 
-### AI Dev Assistant
-App web que integra Google Gemini para ayudar a desarrolladores a debuggear,
-optimizar y explicar código.
+### FinanceOS — Finance Dashboard
+Dashboard de finanzas personales con autenticación, charts y soporte multi-moneda.
 
-**Stack:** React + Node.js + Gemini API
+**Stack:** React 19 · Vite · Tailwind CSS v4 · Firebase · Recharts
+
+- Importación de transacciones desde Excel (.xlsx, .csv)
+- Analíticas con comparación mensual y desglose por categoría
+- Responsive — bottom nav en móvil
+- Dark / Light mode
+
+👉 [Demo en vivo](https://finance-dashboard-phi-six.vercel.app) · [GitHub](https://github.com/ArnoldoCr/finance-dashboard)
+
+---
+
+### AI Dev Assistant
+App web que integra Google Gemini para asistir a desarrolladores en su flujo de trabajo diario.
+
+**Stack:** React · Node.js · Express · Gemini API · Vite
+
+- Análisis y explicación de código en lenguaje natural
+- Detección y sugerencias de corrección de bugs
+- Optimización de funciones con justificación del cambio
+- Soporte para múltiples lenguajes (JS, Python, Go, PHP, etc.)
+- Interfaz limpia con historial de consultas por sesión
 
 👉 [Demo en vivo](https://ai-dev-assistant-dun.vercel.app) · [GitHub](https://github.com/ArnoldoCr/ai-dev-assistant)
 
@@ -114,4 +136,4 @@ optimizar y explicar código.
 
 ## 📫 Contacto
 
-📧 arnoldo.callejasr@gmail.com · 📍 México · Remoto / Híbrido
+📧 [arnoldo.callejasr@gmail.com](mailto:arnoldo.callejasr@gmail.com) · 📍 México · Remoto / Híbrido
