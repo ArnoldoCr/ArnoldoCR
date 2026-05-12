@@ -105,7 +105,7 @@ APIs para flujos transaccionales y pagos recurrentes.
 
 ## 🤖 Proyectos personales
 
-### FinanceOS — Finance Dashboard
+### FinanceNOS — Finance Dashboard
 Dashboard de finanzas personales con autenticación, charts y soporte multi-moneda.
 
 **Stack:** React 19 · Vite · Tailwind CSS v4 · Firebase · Recharts
